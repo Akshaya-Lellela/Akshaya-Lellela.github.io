@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer who loves building clean, functional apps.
 ### Driver Booking App
 A full-stack driver booking application built using Flutter + Firebase.
 
-🔗 Project Repo: [driver-booking-app](https://github.com/Akshaya-Lellela/AkshayaProject.README)
+🔗 Project Repo: [Project-Repo](https://github.com/Akshaya-Lellela/Project-Repo)
 
 ## 📫 Contact
 - Email: akshayalellela.work@gmail.com
